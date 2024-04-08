@@ -1,6 +1,8 @@
 # Ministealthburner_Dual_Sensor
 BETA Mini Stealthburner remix with dual sensor
 
+[https://github.com/kinematicdigit/Ministealthburner_Dual_Sensor/blob/main/media/image.png]
+
 Remix and optimized the Mini Stealthburner with dual sensors for use with ERCF. The filament path has been optimized for heavy load and unload duty cycles. Remixed filament path for a more stable structure to handle the loading of heavily curved filaments and new wire channels for managing the new sensor wires.
 
 BOM (in addition to standard Mini Stealthburner BOM)
