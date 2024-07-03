@@ -1,4 +1,4 @@
-# Ministealthburner_Dual_Sensor
+# MiniRabbitBurner_Dual_Sensor (remixed Mini Stealthburner with Dual Sensors)
 
 ![screenshot](https://github.com/kinematicdigit/Ministealthburner_Dual_Sensor/blob/main/media/image.png)
 
