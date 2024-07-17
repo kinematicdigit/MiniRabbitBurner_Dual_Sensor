@@ -1,4 +1,4 @@
-# Ministealthburner_Dual_Sensor
+# MiniRabbitBurner_Dual_Sensor (remixed Mini Stealthburner with Dual Sensors)
 
 ![screenshot](https://github.com/kinematicdigit/Ministealthburner_Dual_Sensor/blob/main/media/image.png)
 
@@ -23,4 +23,6 @@ Redesigned from the original at:
 
 https://github.com/VoronDesign/Voron-0/tree/Voron0.2r1/STLs
 
+Added klicky mount versions based on:
 
+https://github.com/jlas1/Klicky-Probe/blob/main/Printers/Voron/v0/v0_STL/V0_2r1_Klicky_MiniSB_Cowling.stl
